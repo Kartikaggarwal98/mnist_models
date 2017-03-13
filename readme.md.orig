@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+This repo contains jupyter notebooks of different machine learning models using keras trained and tested on mnist handwritten digits dataset.
+Models include:
+K-nearest neighbours
+Neural networks
+Convolution Neural networks 
+=======
+# Models on mnist
+#### This repo contains jupyter notebooks of different machine learning models trained and tested on mnist handwritten digits dataset.
+#### Models include:
+* Principal component analysis
+* Neural networks
+* Convolution Neural networks 
+* Auto encoders
+>>>>>>> 97c5ce3b8f7721ef51f6c2821ca05a58a9639333
